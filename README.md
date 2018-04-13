@@ -1,2 +1,2 @@
 # SimpleAPIStructure
-Recommended API structure standard for JLS:API spec.
+Recommended API structure standard to complement JLS:API spec.
